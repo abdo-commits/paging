@@ -1,7 +1,6 @@
 #!/bin/bash
 
 mode=""  # Initialize the mode variable
-# Uncomment the following line to enable strict mode
 # mode="strict"
 
 echo "Starting the JobRunner script."
